@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Genable Template</string>
+    <string name="example_character">Example Character</string>
+    <string name="character_image_desc">Character image</string>
+    <string name="app_ready_message">App is ready! Configuration loaded successfully.</string>
+    <string name="config_info_placeholder">Configuration info will appear here</string>
+    <string name="test_audio_button">Test Audio</string>
+    <string name="show_config_button">Show Configuration</string>
+    <string name="config_title">Current Configuration</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- New simple UI strings -->
+    <string name="play_audio">Play Audio</string>
+    <string name="settings">Settings</string>
+</resources>
